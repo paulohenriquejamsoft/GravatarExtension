@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+     <PackageId>GravatarPH</PackageId>
+    <Version>1.0.0</Version>
+    <icon>https://www.gravatar.com/avatar/4eedd55ffb4ebb3ee9786955a581dcab</icon>
+    <License>MIT</License>
+    <Authors>Paulo Henrique</Authors>
+    <Company>Autonomo</Company>
+    <PackageDescription>Extensions do Gravatar</PackageDescription>
+    <Description>Extensions do Gravatar</Description>
+    <RepositoryUrl>https://github.com/paulohenriquejamsoft/GravatarExtension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/paulohenriquejamsoft/GravatarExtension</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Gravatar;Teste</PackageTags>
+    <ReleaseNotes>Pacote de Teste.</ReleaseNotes>
+    <Title>GravatarPH</Title>
+    <Summary>A finalidade desse pacote é apenas para testes.</Summary>
+  </PropertyGroup>
+
+</Project>
